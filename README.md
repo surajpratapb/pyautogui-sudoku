@@ -10,4 +10,4 @@ How to use
 - change the time.sleep(2) function value if you want some more lag time between the last row entry and the solution printing.
 
  ### Demo
- ![]{https://github.com/surajpratapb/pyautogui-sudoku/blob/main/demo.gif}
+ ![](https://github.com/surajpratapb/pyautogui-sudoku/blob/main/demo.gif)
